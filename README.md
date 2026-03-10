@@ -185,7 +185,8 @@ employees ──────── salaries
 
 ## 📸 Screenshot
 
-> Coming soon...
+<img width="1366" height="622" alt="image" src="https://github.com/user-attachments/assets/f1b38bc5-aae0-4dd4-9b4a-1f5cda2eed22" />
+
 
 ---
 
